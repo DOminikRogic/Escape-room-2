@@ -1,0 +1,19 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore Unity auto-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/
+
+# Ignore other files that may not be necessary to track
+*.csproj
+*.sln
+*.userprefs
+.vsconfig
